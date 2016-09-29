@@ -1,0 +1,45 @@
+body {
+	background-image: url("images/light.jpg");
+	background-repeat:no-repeat; 
+	background-size: cover;
+text-align: center;
+
+}
+hr{
+	height: 0px;
+	color: #7fffd4;
+	border: solid 2px
+}
+#main {
+width: 1000px;
+height: 1000px;	
+background-color: deepskyblue;
+margin: 50px auto;
+border: solid 5px;
+padding: 24px
+}
+h1{
+	text-align: center;
+	font-family: "Times New Roman";
+	
+}
+
+p{
+	
+	text-align: left;
+	font-family:"Arial";
+	font-size: 18pt;
+	text-indent:48px
+ 
+}
+
+#biographyimage{
+	postion:relative;
+	margin:auto;
+}
+
+#images/me_loop.jpg{
+	position:absolute
+	top: 400px;
+	left:50px ;
+}
